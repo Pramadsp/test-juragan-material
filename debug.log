@@ -1,0 +1,7 @@
+[1016/160556.634:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1007/151308.396:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[1113/135637.047:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/145114.405:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1115/145115.991:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1116/145116.012:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0126/152147.695:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
